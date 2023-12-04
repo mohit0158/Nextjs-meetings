@@ -1,0 +1,463 @@
+{
+  "meetings": [
+    {
+      "meetingTitle": "Project Kickoff",
+      "meetingDescription": "This meeting marks the beginning of our ambitious new project. We'll be discussing the project goals, timeline, and assigning responsibilities to team members. It's a crucial session to ensure everyone is on the same page and ready to contribute their best.",
+      "organizer": {
+        "name": "Emily Davis"
+      },
+      "meetingDuration": "2 hours",
+      "timeOfPost": "2 min",
+      "attendees": [
+        {
+          "email": "atuny0@sohu.com",
+          "image": "https://robohash.org/hicveldicta.png",
+          "name": "Blanda-O'Keefe"
+        },
+        {
+          "email": "hbingley1@plala.or.jp",
+          "image": "https://robohash.org/doloremquesintcorrupti.png",
+          "name": "Aufderhar-Cronin"
+        },
+        {
+          "email": "rshawe2@51.la",
+          "phone": "+63 739 292 7942",
+          "name": "Lindgren LLC"
+        },
+        {
+          "email": "yraigatt3@nature.com",
+          "image": "https://robohash.org/facilisdignissimosdolore.png",
+          "name": "Wolff and Sons"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Project Kickoff",
+      "meetingDescription": "This meeting marks the beginning of our ambitious new project. We'll be discussing the project goals, timeline, and assigning responsibilities to team members. It's a crucial session to ensure everyone is on the same page and ready to contribute their best.",
+      "organizer": {
+        "name": "Emily Davis"
+      },
+      "meetingDuration": "2 hours",
+      "timeOfPost": "2 min",
+      "attendees": [
+        {
+          "email": "atuny0@sohu.com",
+          "image": "https://robohash.org/hicveldicta.png",
+          "name": "Blanda-O'Keefe"
+        },
+        {
+          "email": "hbingley1@plala.or.jp",
+          "image": "https://robohash.org/doloremquesintcorrupti.png",
+          "name": "Aufderhar-Cronin"
+        },
+        {
+          "email": "rshawe2@51.la",
+          "phone": "+63 739 292 7942",
+          "name": "Lindgren LLC"
+        },
+        {
+          "email": "yraigatt3@nature.com",
+          "image": "https://robohash.org/facilisdignissimosdolore.png",
+          "name": "Wolff and Sons"
+        },
+        {
+          "email": "kmeus4@upenn.edu",
+          "image": "https://robohash.org/adverovelit.png",
+          "name": "Adams Inc"
+        },
+        {
+          "email": "jtreleven5@nhs.uk",
+          "image": "https://robohash.org/laboriosamfacilisrem.png",
+
+          "name": "D'Amore and Sons"
+        },
+        {
+          "email": "dpettegre6@columbia.edu",
+          "image": "https://robohash.org/cupiditatererumquos.png",
+          "name": "Schimmel, Wilderman and Orn"
+        },
+        {
+          "email": "ggude7@chron.com",
+          "image": "https://robohash.org/quiaharumsapiente.png",
+          "name": "Corkery, Reichert and Hodkiewicz"
+        },
+        {
+          "email": "nloiterton8@aol.com",
+          "image": "https://robohash.org/excepturiiuremolestiae.png",
+          "name": "Gorczany Group"
+        },
+        {
+          "email": "umcgourty9@jalbum.net",
+          "image": "https://robohash.org/aliquamcumqueiure.png",
+          "name": "Bins Group"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": "3 min",
+      "attendees": [
+        {
+          "email": "acharlota@liveinternet.ru",
+          "image": "https://robohash.org/impeditautest.png",
+          "name": "Kuhn-Harber"
+        },
+        {
+          "email": "rhallawellb@dropbox.com",
+          "image": "https://robohash.org/namquaerataut.pngVMDF AV",
+          "name": "Goodwin-Skiles"
+        },
+        {
+          "email": "lgribbinc@posterous.com",
+          "image": "https://robohash.org/voluptatemsintnulla.png",
+          "name": "Casper Inc"
+        },
+        {
+          "email": "mturleyd@tumblr.com",
+          "phoge": "https://robohash.org/quisequienim.png",
+          "name": "Schoen Inc"
+        },
+        {
+          "email": "kminchelle@qq.com",
+          "image": "https://robohash.org/autquiaut.png",
+          "name": "Hahn-MacGyver"
+        },
+        {
+          "email": "dpierrof@vimeo.com",
+          "image": "https://robohash.org/porronumquamid.png",
+          "name": "Steuber, Considine and Padberg"
+        },
+        {
+          "email": "vcholdcroftg@ucoz.com",
+          "image": "https://robohash.org/accusantiumvoluptateseos.png",
+          "name": "Bogisich and Sons"
+        },
+        {
+          "email": "sberminghamh@chron.com",
+          "image": "https://robohash.org/nihilharumqui.png",
+          "name": "Metz Group"
+        },
+        {
+          "email": "bleveragei@so-net.ne.jp",
+          "image": "https://robohash.org/delenitipraesentiumvoluptatum.png",
+          "name": "Bahringer, Auer and Wehner"
+        },
+        {
+          "email": "aeatockj@psu.edu",
+          "image": "https://robohash.org/ipsumutofficiis.png",
+          "name": "Hoppe Group"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": " 4 min",
+      "attendees": [
+        {
+          "email": "ckensleyk@pen.io",
+          "image": "https://robohash.org/providenttemporadelectus.png",
+          "name": "Brekke Group"
+        },
+        {
+          "email": "froachel@howstuffworks.com",
+          "phage": "https://robohash.org/temporarecusandaeest.png",
+          "name": "Durgan Group"
+        },
+        {
+          "email": "beykelhofm@wikispaces.com",
+          "image": "https://robohash.org/odioquivero.png",
+          "name": "Romaguera, Williamson and Kessler"
+        },
+        {
+          "email": "brickeardn@fema.gov",
+          "image": "https://robohash.org/odiomolestiaealias.png",
+          "name": "Wintheiser-Boehm"
+        },
+        {
+          "email": "dfundello@amazon.co.jp",
+          "image": "https://robohash.org/doloremautdolores.png",
+          "name": "Volkman Group"
+        },
+        {
+          "email": "lgronaverp@cornell.edu",
+          "image": "https://robohash.org/laboriosammollitiaut.png",
+          "name": "Boyle, Boyer and Lang"
+        },
+        {
+          "email": "fokillq@amazon.co.jp",
+          "image": "https://robohash.org/nequeodiosapiente.png",
+          "name": "O'Hara and Sons"
+        },
+        {
+          "email": "xisherwoodr@ask.com",
+          "image": "https://robohash.org/consequunturabnon.png",
+          "name": "Leffler, Beatty and Kilback"
+        },
+        {
+          "email": "jissetts@hostgator.com",
+          "image": "https://robohash.org/amettemporeea.png",
+          "name": "Bruen and Sons"
+        },
+        {
+          "email": "kdulyt@umich.edu",
+          "image": "https://robohash.org/perferendisideveniet.png",
+          "name": "Balistreri-Kshlerin"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": " 4 min",
+      "attendees": [
+        {
+          "email": "ckensleyk@pen.io",
+          "image": "https://robohash.org/providenttemporadelectus.png",
+          "name": "Brekke Group"
+        },
+        {
+          "email": "froachel@howstuffworks.com",
+          "phage": "https://robohash.org/temporarecusandaeest.png",
+          "name": "Durgan Group"
+        },
+        {
+          "email": "beykelhofm@wikispaces.com",
+          "image": "https://robohash.org/odioquivero.png",
+          "name": "Romaguera, Williamson and Kessler"
+        },
+        {
+          "email": "brickeardn@fema.gov",
+          "image": "https://robohash.org/odiomolestiaealias.png",
+          "name": "Wintheiser-Boehm"
+        },
+        {
+          "email": "dfundello@amazon.co.jp",
+          "image": "https://robohash.org/doloremautdolores.png",
+          "name": "Volkman Group"
+        },
+        {
+          "email": "lgronaverp@cornell.edu",
+          "image": "https://robohash.org/laboriosammollitiaut.png",
+          "name": "Boyle, Boyer and Lang"
+        },
+        {
+          "email": "fokillq@amazon.co.jp",
+          "image": "https://robohash.org/nequeodiosapiente.png",
+          "name": "O'Hara and Sons"
+        },
+        {
+          "email": "xisherwoodr@ask.com",
+          "image": "https://robohash.org/consequunturabnon.png",
+          "name": "Leffler, Beatty and Kilback"
+        },
+        {
+          "email": "jissetts@hostgator.com",
+          "image": "https://robohash.org/amettemporeea.png",
+          "name": "Bruen and Sons"
+        },
+        {
+          "email": "kdulyt@umich.edu",
+          "image": "https://robohash.org/perferendisideveniet.png",
+          "name": "Balistreri-Kshlerin"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": "5 min",
+      "attendees": [
+        {
+          "email": "ckensleyk@pen.io",
+          "image": "https://robohash.org/providenttemporadelectus.png",
+          "name": "Brekke Group"
+        },
+        {
+          "email": "froachel@howstuffworks.com",
+          "phage": "https://robohash.org/temporarecusandaeest.png",
+          "name": "Durgan Group"
+        },
+        {
+          "email": "beykelhofm@wikispaces.com",
+          "image": "https://robohash.org/odioquivero.png",
+          "name": "Romaguera, Williamson and Kessler"
+        },
+        {
+          "email": "brickeardn@fema.gov",
+          "image": "https://robohash.org/odiomolestiaealias.png",
+          "name": "Wintheiser-Boehm"
+        },
+        {
+          "email": "dfundello@amazon.co.jp",
+          "image": "https://robohash.org/doloremautdolores.png",
+          "name": "Volkman Group"
+        },
+        {
+          "email": "lgronaverp@cornell.edu",
+          "image": "https://robohash.org/laboriosammollitiaut.png",
+          "name": "Boyle, Boyer and Lang"
+        },
+        {
+          "email": "fokillq@amazon.co.jp",
+          "image": "https://robohash.org/nequeodiosapiente.png",
+          "name": "O'Hara and Sons"
+        },
+        {
+          "email": "xisherwoodr@ask.com",
+          "image": "https://robohash.org/consequunturabnon.png",
+          "name": "Leffler, Beatty and Kilback"
+        },
+        {
+          "email": "jissetts@hostgator.com",
+          "image": "https://robohash.org/amettemporeea.png",
+          "name": "Bruen and Sons"
+        },
+        {
+          "email": "kdulyt@umich.edu",
+          "image": "https://robohash.org/perferendisideveniet.png",
+          "name": "Balistreri-Kshlerin"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": "6 min",
+      "attendees": [
+        {
+          "email": "ckensleyk@pen.io",
+          "image": "https://robohash.org/providenttemporadelectus.png",
+          "name": "Brekke Group"
+        },
+        {
+          "email": "froachel@howstuffworks.com",
+          "phage": "https://robohash.org/temporarecusandaeest.png",
+          "name": "Durgan Group"
+        },
+        {
+          "email": "beykelhofm@wikispaces.com",
+          "image": "https://robohash.org/odioquivero.png",
+          "name": "Romaguera, Williamson and Kessler"
+        },
+        {
+          "email": "brickeardn@fema.gov",
+          "image": "https://robohash.org/odiomolestiaealias.png",
+          "name": "Wintheiser-Boehm"
+        },
+        {
+          "email": "dfundello@amazon.co.jp",
+          "image": "https://robohash.org/doloremautdolores.png",
+          "name": "Volkman Group"
+        },
+        {
+          "email": "lgronaverp@cornell.edu",
+          "image": "https://robohash.org/laboriosammollitiaut.png",
+          "name": "Boyle, Boyer and Lang"
+        },
+        {
+          "email": "fokillq@amazon.co.jp",
+          "image": "https://robohash.org/nequeodiosapiente.png",
+          "name": "O'Hara and Sons"
+        },
+        {
+          "email": "xisherwoodr@ask.com",
+          "image": "https://robohash.org/consequunturabnon.png",
+          "name": "Leffler, Beatty and Kilback"
+        },
+        {
+          "email": "jissetts@hostgator.com",
+          "image": "https://robohash.org/amettemporeea.png",
+          "name": "Bruen and Sons"
+        },
+        {
+          "email": "kdulyt@umich.edu",
+          "image": "https://robohash.org/perferendisideveniet.png",
+          "name": "Balistreri-Kshlerin"
+        }
+      ]
+    },
+    {
+      "meetingTitle": "Weekly Status Update",
+      "meetingDescription": "In this weekly meeting, we'll be going over the current status of ongoing projects. Team members will provide updates on their tasks, and we'll address any challenges or roadblocks. It's an opportunity for collaboration and problem-solving.",
+      "organizer": {
+        "name": "Michael Johnson"
+      },
+      "meetingDuration": "1 hour 30 minutes",
+      "timeOfPost": "7 min",
+      "attendees": [
+        {
+          "email": "ckensleyk@pen.io",
+          "image": "https://robohash.org/providenttemporadelectus.png",
+          "name": "Brekke Group"
+        },
+        {
+          "email": "froachel@howstuffworks.com",
+          "phage": "https://robohash.org/temporarecusandaeest.png",
+          "name": "Durgan Group"
+        },
+        {
+          "email": "beykelhofm@wikispaces.com",
+          "image": "https://robohash.org/odioquivero.png",
+          "name": "Romaguera, Williamson and Kessler"
+        },
+        {
+          "email": "brickeardn@fema.gov",
+          "image": "https://robohash.org/odiomolestiaealias.png",
+          "name": "Wintheiser-Boehm"
+        },
+        {
+          "email": "dfundello@amazon.co.jp",
+          "image": "https://robohash.org/doloremautdolores.png",
+          "name": "Volkman Group"
+        },
+        {
+          "email": "lgronaverp@cornell.edu",
+          "image": "https://robohash.org/laboriosammollitiaut.png",
+          "name": "Boyle, Boyer and Lang"
+        },
+        {
+          "email": "fokillq@amazon.co.jp",
+          "image": "https://robohash.org/nequeodiosapiente.png",
+          "name": "O'Hara and Sons"
+        },
+        {
+          "email": "xisherwoodr@ask.com",
+          "image": "https://robohash.org/consequunturabnon.png",
+          "name": "Leffler, Beatty and Kilback"
+        },
+        {
+          "email": "jissetts@hostgator.com",
+          "image": "https://robohash.org/amettemporeea.png",
+          "name": "Bruen and Sons"
+        },
+        {
+          "email": "kdulyt@umich.edu",
+          "image": "https://robohash.org/perferendisideveniet.png",
+          "name": "Balistreri-Kshlerin"
+        }
+      ]
+    }
+  ]
+}
